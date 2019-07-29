@@ -6,7 +6,7 @@
 > FiBuds Frontend Repo: [Github](https://github.com/JayRodrig/FiBuds_FE)    
 Fibuds Backend Repo: [Github](https://github.com/JayRodrig/FiBuds_BE)
 
-Both applications are currently deployed on Netlify _Frontend_ and Heroku _Backend_. The links are the following: 
+Both applications are currently deployed on Netlify -_Frontend_- and Heroku -_Backend_-. The links are the following: 
 
 * [Frontend App](https://fibuds.netlify.com/#/landing)
 * [Backend App](http://fibuds.herokuapp.com/)
